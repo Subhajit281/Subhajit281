@@ -1,5 +1,5 @@
-# 💫 About Me:
-🔭 I’m currently working on UpFlow – an API Monitoring & Incident Management Platform<br><br>👯 I’m looking to collaborate on Backend Development, Open Source Projects, and SaaS Products<br><br>🤝 I’m looking for help with System Design, Distributed Systems, and Scaling Applications<br><br>🌱 I’m currently learning Agentic AI, LLM Fundamentals, PostgreSQL, Prisma, and Advanced Backend Engineering<br><br>💬 Ask me about C++, Data Structures & Algorithms, Node.js, Express.js, React, PostgreSQL, and API Development<br><br>⚡ Fun fact: I come from a small town and built my developer journey from a tarpaulin-roof home to studying Computer Science at NIT Silchar 🚀
+# About Me:
+👯 I’m looking to collaborate on Backend Development, Open Source Projects, and SaaS Products<br><br>🤝 I’m looking for help with System Design, Distributed Systems, and Scaling Applications<br><br>🌱 I’m currently learning Agentic AI, LLM Fundamentals, PostgreSQL, Prisma, and Advanced Backend Engineering<br><br>💬 Ask me about C++, Data Structures & Algorithms, Node.js, Express.js, React, PostgreSQL, and API Development<br><br>
 
 
 ## 🌐 Socials:
