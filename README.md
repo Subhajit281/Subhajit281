@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Subhajit%20Sarkar&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20CSE%20Undergrad%20%40%20NIT%20Silchar&descAlignY=58&descSize=18"/>
 
 <a href="https://subhajit-sarkar.vercel.app">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=8A63D2&center=true&vCenter=true&width=550&lines=Building+backend+systems+that+don't+fall+over;Node.js+%2B+PostgreSQL+%2B+Prisma+%2B+React;Learning+distributed+systems%2C+one+project+at+a+time;Open+to+SDE+Internships+%26+Collaborations" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=8A63D2&center=true&vCenter=true&width=550&lines=Building+strong+backend+systems;Node.js+%2B+PostgreSQL+%2B+Prisma+%2B+React;Learning+distributed+systems%2C+one+project+at+a+time;Open+to+SDE+Internships+%26+Collaborations" alt="Typing SVG" />
 </a>
 
 <br/>
