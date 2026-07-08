@@ -30,8 +30,6 @@ I'm a Computer Science undergrad at **NIT Silchar** (CGPA 7.73), building full-s
 
 ---
 
-### ⚡ Tech Stack
-
 <div align="center">
 
 ## Tech Stack
@@ -76,7 +74,6 @@ I'm a Computer Science undergrad at **NIT Silchar** (CGPA 7.73), building full-s
 ![SFML](https://img.shields.io/badge/SFML-8CC445?style=flat-square)
 ![CMake](https://img.shields.io/badge/CMake-064F8C?style=flat-square&logo=cmake&logoColor=white)
 
----
 </div>
 
 
