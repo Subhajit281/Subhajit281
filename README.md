@@ -11,7 +11,6 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://subhajit-sarkar.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/subhajit-sarkar-57aa432b1)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:subhajitsarkar281@gmail.com)
-[![Profile Views](https://komarev.com/ghpvc/?username=Subhajit281&style=for-the-badge&color=8A63D2)](https://github.com/Subhajit281)
 
 </div>
 
