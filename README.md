@@ -36,7 +36,7 @@ I'm a Computer Science undergrad at **NIT Silchar** (CGPA 7.73), building full-s
 
 ## 💻 Tech Stack
 
-### 📝 Languages
+### Languages
 <br/>
 
 ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
@@ -48,7 +48,7 @@ I'm a Computer Science undergrad at **NIT Silchar** (CGPA 7.73), building full-s
 
 ---
 
-### 🎨 Frontend
+### Frontend
 <br/>
 
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
@@ -59,7 +59,7 @@ I'm a Computer Science undergrad at **NIT Silchar** (CGPA 7.73), building full-s
 
 ---
 
-### ⚙️ Backend
+### Backend
 <br/>
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
@@ -71,23 +71,11 @@ I'm a Computer Science undergrad at **NIT Silchar** (CGPA 7.73), building full-s
 ![Joi](https://img.shields.io/badge/Joi-000000?style=flat-square)
 ![Multer](https://img.shields.io/badge/Multer-FF9800?style=flat-square)
 ![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=flat-square&logo=swagger&logoColor=black)
-
----
-
-### 🗄️ Databases & ORM
-<br/>
-
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
 ![MongoDB Atlas](https://img.shields.io/badge/MongoDB_Atlas-47A248?style=flat-square&logo=mongodb&logoColor=white)
-
----
-
-### ☁️ Cloud & Deployment
-<br/>
-
 ![Render](https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
 ![Neon](https://img.shields.io/badge/Neon-00E699?style=flat-square&logo=neon&logoColor=black)
@@ -96,7 +84,7 @@ I'm a Computer Science undergrad at **NIT Silchar** (CGPA 7.73), building full-s
 
 ---
 
-### 🛠️ Developer Tools
+### Developer Tools
 <br/>
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
@@ -108,29 +96,18 @@ I'm a Computer Science undergrad at **NIT Silchar** (CGPA 7.73), building full-s
 
 ---
 
-### 🎮 Desktop & Graphics
+### Desktop & Graphics
 <br/>
-
 ![Electron](https://img.shields.io/badge/Electron-47848F?style=flat-square&logo=electron&logoColor=white)
 ![SFML](https://img.shields.io/badge/SFML-8CC445?style=flat-square)
 ![CMake](https://img.shields.io/badge/CMake-064F8C?style=flat-square&logo=cmake&logoColor=white)
 
 ---
-
-### 📚 Currently Learning
-<br/>
-
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![System Design](https://img.shields.io/badge/System_Design-0A66C2?style=flat-square)
-![Agentic AI](https://img.shields.io/badge/Agentic_AI-412991?style=flat-square)
-![LLMs](https://img.shields.io/badge/LLMs-FF6F00?style=flat-square)
-
 </div>
 
----
 
-### 💼 Featured Projects
+
+### Featured Projects
 
 <table>
 <tr>
