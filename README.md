@@ -29,11 +29,10 @@ I'm a Computer Science undergrad at **NIT Silchar** (CGPA 7.73), building full-s
 - 📫 Reach me at **subhajitsarkar281@gmail.com**
 
 ---
-
 <div align="center">
 
-## Tech Stack
-<br/>
+### Tech Stack
+
 ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
