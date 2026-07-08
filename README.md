@@ -19,7 +19,7 @@
 
 ### 👋 About Me
 
-I'm a Computer Science undergrad at **NIT Silchar** (CGPA 7.73), building full-stack and systems-adjacent projects — from a SaaS-style API monitoring platform to a C++ physics engine with a desktop GUI. I care about writing code that's clean, documented, and actually works under real conditions, not just in a demo.
+I'm a Computer Science undergrad at **NIT Silchar**, building full-stack and systems-adjacent projects — from a SaaS-style API monitoring platform to a C++ physics engine with a desktop GUI. I care about writing code that's clean, documented, and actually works under real conditions, not just in a demo.
 
 - 🎓 B.Tech CSE, National Institute of Technology, Silchar — *Aug 2024 – Jun 2028*
 - 🛠️ Currently building backend systems with **Node.js, Express, PostgreSQL & Prisma**
