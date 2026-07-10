@@ -149,7 +149,7 @@ Currently exploring system design fundamentals and backend scalability patterns 
 
 | Platform | Handle | Stats |
 |---|---|---|
-| ![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=white) | `_vapourX` | 508 solved · Rating 1692 · Top 14.3% |
+| ![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=white) | `_vapourX` | 508 solved · Rating 1723 · Top 12.14% |
 | ![CodeChef](https://img.shields.io/badge/-CodeChef-5B4638?style=flat-square&logo=codechef&logoColor=white) | `subhajit_s_18` | Rating 1422 (2★) |
 | ![Codeforces](https://img.shields.io/badge/-Codeforces-1F8ACB?style=flat-square&logo=codeforces&logoColor=white) | `Subhajit_S` | Rating 823 (Newbie) |
 
